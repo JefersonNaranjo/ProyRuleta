@@ -1,3 +1,5 @@
+URL: https://localhost:7037/swagger
+
 Scrip para BD
 CREATE DATABASE DBRuleta;
 GO
